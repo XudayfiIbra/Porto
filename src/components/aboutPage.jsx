@@ -3,7 +3,7 @@ import SideTeach from "./TechSIdes";
 const AboutPage = () => {
   return (
     <>
-        <div id="about" className="flex justify-center items-center h-screen ">
+        <div id="about" className="h-screen ">
             <SideTeach />
         </div>
     </>
