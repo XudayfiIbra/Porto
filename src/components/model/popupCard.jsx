@@ -8,7 +8,7 @@ const PopupCard = () => {
             <div className="overflow-hidden rounded-lg shadow-md">
               <div className="bg-[#232323] p-4">
                 <img
-                  className="ml-[5rem] h-[340px] w-[340px] transform rounded transition-transform hover:rotate-3 hover:scale-110"
+                  className="cursor-pointer"
                   src="https://steam-portfolio-demo.vercel.app/project-imgs/example-project.jpg"
                   alt=""
                 />
@@ -52,7 +52,7 @@ const PopupCard = () => {
             <div className="overflow-hidden rounded-lg shadow-md">
               <div className="bg-[#232323] p-4">
                 <img
-                  className="ml-[5rem] h-[340px] w-[340px] transform rounded transition-transform hover:rotate-3 hover:scale-110"
+                  className="cursor-pointer"
                   src="https://steam-portfolio-demo.vercel.app/project-imgs/example-project.jpg"
                   alt=""
                 />
@@ -96,7 +96,7 @@ const PopupCard = () => {
             <div className="overflow-hidden rounded-lg shadow-md">
               <div className="bg-[#232323] p-4">
                 <img
-                  className="ml-[5rem] h-[340px] w-[340px] transform rounded transition-transform hover:rotate-3 hover:scale-110"
+                  className="cursor-pointer"
                   src="https://steam-portfolio-demo.vercel.app/project-imgs/example-project.jpg"
                   alt=""
                 />
@@ -140,7 +140,7 @@ const PopupCard = () => {
             <div className="overflow-hidden rounded-lg shadow-md">
               <div className="bg-[#232323] p-4">
                 <img
-                  className="ml-[5rem] h-[340px] w-[340px] transform rounded transition-transform hover:rotate-3 hover:scale-110"
+                  className="cursor-pointer"
                   src="https://steam-portfolio-demo.vercel.app/project-imgs/example-project.jpg"
                   alt=""
                 />
