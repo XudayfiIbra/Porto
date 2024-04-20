@@ -3,8 +3,9 @@
 @tailwind utilities;
 
 * {
-    @apply font-poppins;
+    @apply font-poppins;   
 }
 body {
-    @apply bg-[#111111];
+    @apply bg-indigo-700;
+    
 }
