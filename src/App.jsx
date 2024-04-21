@@ -38,7 +38,7 @@ function App() {
               </Link>
             </li>
             <li className="text-slate-200">
-              <Link to="https://github.com/xudayfiIbra">
+              <Link to="https://www.linkedin.com/in/xudayfiIbra/">
                 <div className="mr-2 mt-[-2.4px]">
                 <FaLinkedin size={30} color="blue"/>
                 </div>

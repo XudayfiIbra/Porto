@@ -6,6 +6,6 @@
     @apply font-poppins;   
 }
 body {
-    @apply bg-indigo-700;
+    @apply bg-[#111111];
     
 }

@@ -5,5 +5,5 @@ import './index.css'
 import Test from './Test.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-    <Test />
+    <App />
 )
