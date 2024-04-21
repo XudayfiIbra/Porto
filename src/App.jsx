@@ -14,7 +14,7 @@ function App() {
         <div className="flex justify-between items-center backdrop-blur-xl fixed top-0 right-0 left-0 h-[70px] p-6">
           <Link to="#">
             <h1 className="text-2xl font-bold cursor-pointer text-slate-200">
-              Navbar
+              Hudayfi
             </h1>
           </Link>
           <ul className="flex space-x-4 cursor-pointer">
