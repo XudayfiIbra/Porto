@@ -35,6 +35,7 @@ const Search = () => {
               className="p-2 w-[400px] bg-indigo-200 rounded-lg"
               type="text"
             />
+            
             <div className="bg-slate-400 p-2 rounded-md mt-3 cursor-pointer">
                 <h3 className="text-white text-lg font-medium">Transform</h3>
                 <p className="font-light text-white text-sm">Transform in tailwind is so useful. check out</p>
